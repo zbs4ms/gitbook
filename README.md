@@ -1,1 +1,12 @@
-This file serves as an introduction to your Knowledge Base, it is displayed on the homepage of your website. Use it to provide more context to your visitors.
+信息收集：
+
+1、药品过期和丢失率要求在10%左右，单平均丢失率在20%，主要为不规范管理造成。
+
+2、现有的检查设备多为厂家出人出机器，由医生开具检查单，进行检查提出，出现大量的过渡检查情况。
+
+3、现有主任权利和重要度过大，甚至高于院长，造成医院一些会涉及科室利用但利于医院和患者的制度推行不下去。
+
+4、医生灰色收入来源太多，给患者造成很多不必要的支出，并可能会耽误病情，不合理。
+
+
+
